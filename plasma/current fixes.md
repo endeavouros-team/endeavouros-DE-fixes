@@ -17,6 +17,6 @@ from
 
 to
 
-`org.kde.konsole.desktop
+`org.kde.konsole.desktop`
 
 to not show corrupted discover icon
