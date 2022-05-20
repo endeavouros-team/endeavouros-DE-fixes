@@ -11,3 +11,13 @@ and change:
       <default>applications:systemsettings.desktop,applications:org.kde.konsole.desktop,preferred://filemanager,preferred://browser</default>
       </entry>
 ```
+
+from 
+
+org.kde.discover.desktop
+
+to
+
+org.kde.konsole.desktop
+
+to not show corrupted discover icon
