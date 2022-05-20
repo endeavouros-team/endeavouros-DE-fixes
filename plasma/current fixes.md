@@ -1,8 +1,8 @@
-copy /usr/share/plasma/plasmoids/org.kde.plasma.taskmanager to
-/etc/skel/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager
+copy `/usr/share/plasma/plasmoids/org.kde.plasma.taskmanager` to
+`/etc/skel/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager`
 and change:
 
-/etc/skel/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/config/main.xml
+`/etc/skel/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/config/main.xml
 
 
 ```
