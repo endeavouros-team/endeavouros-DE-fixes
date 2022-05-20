@@ -13,10 +13,10 @@ and change:
 
 from 
 
-org.kde.discover.desktop
+`org.kde.discover.desktop`
 
 to
 
-org.kde.konsole.desktop
+`org.kde.konsole.desktop
 
 to not show corrupted discover icon
