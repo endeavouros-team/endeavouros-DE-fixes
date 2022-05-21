@@ -6,5 +6,3 @@ fixes for DE vanilla installs.
 **---> we only fix what is broken! <---**
 
 We don't change the whole theme or customize it to create a different look and feel.
-
-![Simplicity is the best!!](/yay.png "Simplicity is the best!!")
