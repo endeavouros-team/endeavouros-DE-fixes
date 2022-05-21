@@ -1,7 +1,7 @@
 # endeavouros-DE-fixes
 fixes for DE vanilla installs.
 
-## The rule is:
+# The rule is:
 
 only fixing things that are broken!
 
