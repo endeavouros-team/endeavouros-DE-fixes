@@ -27,5 +27,5 @@ This is ued in this package:
 
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma-git
 
-for testing later it will go into a default package for installs from ISO:
+for testing it forst only git package exists, later it will go into a default package for installs from ISO:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma (not ready)
