@@ -22,3 +22,10 @@ to
 to not show corrupted discover icon.
 
 We need to update the file if it changes somehow in the ![plasma-desktop](https://archlinux.org/packages/extra/x86_64/plasma-desktop/) package what originally ships it.
+
+This is ued in this package:
+
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma-git
+
+for testing later it will go into a default package for installs from ISO:
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma (not ready)
