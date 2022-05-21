@@ -11,3 +11,10 @@ We can also use a script and command to apply on first login of the user:
 
 But for first testing we take the first way.
 
+This is used in this package for testing it first:
+
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-gschema-budgie-git
+
+Later it will go into a main package used for installing from ISO:
+
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-gschema-budgie (not ready)
