@@ -19,4 +19,6 @@ to
 
 `org.kde.konsole.desktop`
 
-to not show corrupted discover icon
+to not show corrupted discover icon.
+
+We need to update the file if it changes somehow in the !(plasma-desktop)[https://archlinux.org/packages/extra/x86_64/plasma-desktop/] package what originally ships it.
