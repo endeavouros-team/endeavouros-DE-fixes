@@ -18,5 +18,5 @@ https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-mate
 
 Because user file will include a lot from the default settings we do not need it will be better to use:
 
-`dconf load / < user.conf` to load only needed settings.. i do not know of a way to create a custom user file thaz only includes the settings we want to change?
+`dconf load / < user.bak` to load only needed settings.. i do not know of a way to create a custom user file thaz only includes the settings we want to change?
 
