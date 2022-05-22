@@ -20,3 +20,12 @@ Because user file will include a lot from the default settings we do not need it
 
 `dconf load / < user.bak` to load only needed settings.. i do not know of a way to create a custom user file thaz only includes the settings we want to change?
 
+
+the issue could be simply solved by not using default theme colors:
+
+`dconf write /org/mate/terminal/profiles/default/use-theme-colors false`
+
+and using set_once script procediure like here:
+https://github.com/endeavouros-team/endeavouros-xfce4-theming/blob/master/set_once_xfce4.sh
+https://github.com/endeavouros-team/endeavouros-xfce4-theming/blob/master/.config/autostart/set_once_xfce4.desktop
+
