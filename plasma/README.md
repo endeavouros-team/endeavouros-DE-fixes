@@ -29,3 +29,6 @@ https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasm
 
 for testing it forst only git package exists, later it will go into a default package for installs from ISO:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma (not ready)
+
+
+![eos-plasma](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/plasma/plasma.png)
