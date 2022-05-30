@@ -5,7 +5,6 @@ Type=Application
 Name=set_once_plasma
 Comment=set up stuff once
 Exec=sh -c ~/set_once_plasma.sh
-OnlyShowIn=KDE;
 RunHook=0
 StartupNotify=false
 Terminal=false
