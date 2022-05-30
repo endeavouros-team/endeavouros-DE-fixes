@@ -8,7 +8,6 @@
 	icon-theme='Qogir'
 	monospace-font-name='Source Code Pro 10'
 	
-	
 [com.solus-project.icon-tasklist]
 	pinned-launchers=['firefox.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Terminal.desktop']
 
