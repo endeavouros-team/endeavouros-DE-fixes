@@ -18,3 +18,6 @@ https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-gschema-bu
 Later it will go into a main package used for installing from ISO:
 
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-gschema-budgie (not ready)
+
+
+![alt text]([https://raw.githubusercontent.com/endeavouros-team/screenshots/master/eos-i3-banner.png](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/budgie/budgie.png) "eos-budgie")
