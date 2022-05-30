@@ -5,7 +5,6 @@ Type=Application
 Name=set_once_mate
 Comment=set up stuff once
 Exec=sh -c ~/set_once_mate.sh
-OnlyShowIn=MATE;
 RunHook=0
 StartupNotify=false
 Terminal=false
