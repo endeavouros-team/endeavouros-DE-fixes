@@ -1,6 +1,6 @@
 As Budgie using dconf/gschema overrides we need to use 
 
-`/usr/share/glib-2.0/schemas/20_endeavouros.gschema.override`  
+`/usr/share/glib-2.0/schemas/20_endeavouros-budgie.gschema.override`  
 
 file  instead of skel configurations to set options on theming.
 
