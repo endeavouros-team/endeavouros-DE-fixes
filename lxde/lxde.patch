@@ -1,0 +1,17 @@
+--- panel-default	2022-05-30 23:35:30.601681055 +0200
++++ panel	2022-05-30 23:23:57.832445440 +0200
+@@ -57,6 +57,14 @@
+   }
+ }
+ Plugin {
++  type=launchbar
++  Config {
++    Button {
++      id=lxterminal.desktop
++    }
++  }
++}
++Plugin {
+   type=wincmd
+   Config {
+     Button1=iconify
