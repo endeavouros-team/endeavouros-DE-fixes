@@ -1,24 +1,15 @@
-Mate uses dconf schema also.. but ;) seems it do not take overrides ?
-I test to create a users dconf file and put this in skel seems to get used as it should at least to fix terminal to be readable by setting icon and gtk theme.
+Mate take overrides but uses also defaults under `/usr/share/mate-*`  
 
-`/etc/skel/.config/dconf/user`
-
-..
-
-To be changed as soon as someone hints me on a better way or i do find something better .. 
-
-
-
-Because user file will include a lot from the default settings we do not need it will be better to use:
-
-`dconf load / < user.bak` to load only needed settings.. i do not know of a way to create a custom user file thaz only includes the settings we want to change?
-
-**Currently** we only nee dto change termional config to not use default theming color scheme som we can use `dconf write` command:
+**Currently** we ochange terminal config to not use default theming color scheme so we can use `dconf write` command:
 
 `dconf write /org/mate/terminal/profiles/default/use-theme-colors false`
 
 We run this using set_once method.
 
+To get Terminal and Firefox ixon favorites on the panel it needs some file handling..
+Copy `/usr/share/mate-panel/layouts/default.layout` to `/usr/share/mate-panel/layouts/endeavouros.layout`
+add the dropin for the 2 fav icons (endeavouros.layout.dropin) and copy a minimal gschema.override at its place:
+`/usr/share/glib-2.0/schemas/99_endeavouros-mate.gschema.override`
 
 Used in this package:
 
