@@ -11,4 +11,4 @@ type=quicklaunch
 EOT
 
 killall lxqt-panel && lxqt-panel &
-rm $HOME/.config/autostart/set_once_lxde.desktop $HOME/set_once_lxde.sh
+rm $HOME/.config/autostart/set_once_lxqt.desktop $HOME/set_once_lxqt.sh
