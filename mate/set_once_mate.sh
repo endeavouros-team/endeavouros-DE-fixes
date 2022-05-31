@@ -1,6 +1,7 @@
 #!/bin/sh
 mkdir $HOME/.local/share/mate-panel/layouts
 cp /usr/share/mate-panel/layouts/default.layout $HOME/.local/share/mate-panel/layouts/endeavouros.layout
+
 cat <<EOT >> $HOME/.local/share/mate-panel/layouts/endeavouros.layout
 
 [Object mate-terminal]
