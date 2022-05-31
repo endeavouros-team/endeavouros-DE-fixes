@@ -1,0 +1,13 @@
+[Object mate-terminal]
+launcher-location=/usr/share/applications/mate-terminal.desktop
+object-type=launcher
+panel-right-stick=false
+position=0
+toplevel-id=top
+
+[Object firefox]
+launcher-location=/usr/share/applications/firefox.desktop
+object-type=launcher
+panel-right-stick=false
+position=0
+toplevel-id=top
