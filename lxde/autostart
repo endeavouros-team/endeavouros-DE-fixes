@@ -1,4 +1,4 @@
 @lxpanel --profile LXDE
 @pcmanfm --desktop --profile LXDE
 @xscreensaver -no-splash
-@$HOME/set_once-lxde.sh
+@$HOME/set_once_lxde.sh
