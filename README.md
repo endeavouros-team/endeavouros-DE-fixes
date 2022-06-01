@@ -6,7 +6,8 @@ fixes for DE vanilla installs.
 **we only fix what is broken!**
 
 We don't change the whole theme or customize it to create a different look and feel.
-**K**EEP **I**T **S**IMPLE **S**TUPID!
+
+## [**K**EEP **I**T **S**IMPLE, **S**TUPID!](https://en.wikipedia.org/wiki/KISS_principle)
 
 ![eos-budgie](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/budgie/budgie.png)
 ![eos-cinnamon](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/cinnamon/cinnamon.png)
