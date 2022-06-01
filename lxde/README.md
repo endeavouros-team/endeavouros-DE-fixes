@@ -1,6 +1,7 @@
 lxde fixes for adding terminal to panel:
 
-Not sure here put patching panel config do work, using set_once implementation.
+Not sure here using set_once implementation and sed to change values in default panel.
+There should be an option to use custom file at least ? 
 
 LXDE needs to add commands to autostart file under `$HOME/.config/lxsession/LXDE/autostart`
 
