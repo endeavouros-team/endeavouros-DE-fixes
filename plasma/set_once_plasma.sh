@@ -1,6 +1,11 @@
 #!/bin/sh
-mkdir -p $HOME/.local/share/plasma/plasmoids
-cp -a /usr/share/plasma/plasmoids/org.kde.plasma.taskmanager $HOME/.local/share/plasma/plasmoids/
-sed -i "s?      <default>applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser</default>?      <default>applications:systemsettings.desktop,applications:org.kde.konsole.desktop,preferred://filemanager,preferred://browser</default>?" "$HOME/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/config/main.xml"
-kquitapp5 plasmashell || killall plasmashell && kstart5 plasmashell
+
+sleep 4 &
+
+cat <<EOF >>$HOME/.config/plasma-org.kde.plasma.desktop-appletsrc
+[Containments][2][Applets][5][Configuration][General]
+launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop?wmClass=konsole,preferred://filemanager?wmClass=dolphin,preferred://browser?wmClass=firefox
+EOF
+
+kquitapp5 plasmashell || killall plasmashell && kstart5 plasmashell &
 rm ~/.config/autostart/set_once_plasma.desktop ~/set_once_plasma.sh
