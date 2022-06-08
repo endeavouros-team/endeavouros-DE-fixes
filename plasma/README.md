@@ -1,3 +1,27 @@
+New test using `$HOME/.config/plasma-org.kde.plasma.desktop-appletsrc`
+and adding 
+
+```
+[Containments][2][Applets][5][Configuration][General]
+launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop?wmClass=konsole,preferred://filemanager?wmClass=dolphin,preferred://browser?wmClass=firefox
+
+```
+
+This is used in this package:
+
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma-git
+
+for testing it forst only git package exists, later it will go into a default package for installs from ISO:
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma (not ready)
+
+
+![eos-plasma](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/plasma/plasma.png)
+
+
+---
+
+first test was using this here biút as it partly bypass  dynamic generation of files unde rplasma we can not really use it:
+
 copy `/usr/share/plasma/plasmoids/org.kde.plasma.taskmanager` to
 `/etc/skel/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager`
 and change:
@@ -22,20 +46,6 @@ to
 to not show corrupted discover icon.
 
 We need to update the file if it changes somehow in the ![plasma-desktop](https://archlinux.org/packages/extra/x86_64/plasma-desktop/) package what originally ships it.. what somehow is not the best way because plasma changes files very often.. so it would cause less issue using set_once method where we can copy the file on the run fresh from installed system and use sed/patch to modify files..
-
-This is used in this package:
-
-https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma-git
-
-for testing it forst only git package exists, later it will go into a default package for installs from ISO:
-https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma (not ready)
-
-
-![eos-plasma](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/plasma/plasma.png)
-
-
-
-history:
 
 ```
 #!/bin/sh
