@@ -1,6 +1,14 @@
 Currently no solution.
 (help needed)
 
+Using the kwriteconfig5 command to add setting should work because it should not interfere with dynamic crteations and stuff and instead should get merged with them .. 
+Needs testing trhis again.. 
+
+
+```
+kwriteconfig5 --file $HOME/.config/plasma-org.kde.plasma.desktop-appletsrc --group "Containments" --group "2" --group "Applets" --group "5" --group "Configuration" --group "General" --key "launchers" "applications:systemsettings.desktop,applications:org.kde.konsole.desktop?wmClass=konsole,preferred://filemanager?wmClass=dolphin,preferred://browser?wmClass=firefox"
+
+```
 
 ---
 
