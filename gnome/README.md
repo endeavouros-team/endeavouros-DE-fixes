@@ -11,4 +11,4 @@ https://github.com/endeavouros-team/PKGBUILDS/blob/master/endeavouros-gschema-gn
 
 ![eos-gnome](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/gnome/gnome.png)
 
-
+![package-scheme](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/gnome/scheme.png)
