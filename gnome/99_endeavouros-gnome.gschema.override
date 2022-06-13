@@ -6,5 +6,11 @@ color-shading-type='solid'
 picture-options='zoom'
 picture-uri='file:///usr/share/backgrounds/gnome/endeavouros-l.png'
 picture-uri-dark='file:///usr/share/backgrounds/gnome/endeavouros-d.png'
-primary-color='#3465a4'
+primary-color='#46226e'
 secondary-color='#000000'
+
+[org.gnome.desktop.interface]
+color-scheme='default'
+cursor-theme='Qogir'
+gtk-theme='Adwaita'
+icon-theme='Qogir'
