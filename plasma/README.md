@@ -1,7 +1,7 @@
 Currently no solution.
 (help needed)
 
-Using the kwriteconfig5 command to add setting should work because it should not interfere with dynamic crteations and stuff and instead should get merged with them .. 
+Using the kwriteconfig5 command to add setting should work because it should not interfere with dynamic creations and stuff and instead should get merged with them .. 
 Needs testing this again.. 
 
 And dynamic filecreation is messing it up also.. ID will change already if you have dual display setup and our welcome app is adding wallpaper.. . ... 
@@ -35,7 +35,7 @@ https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasm
 
 ---
 
-first test was using this here biút as it partly bypass  dynamic generation of files unde rplasma we can not really use it:
+first test was using this here but as it partly bypass  dynamic generation of files under plasma we can not really use it:
 
 copy `/usr/share/plasma/plasmoids/org.kde.plasma.taskmanager` to
 `/etc/skel/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager`
