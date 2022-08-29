@@ -26,7 +26,7 @@ This is used in this package:
 
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma-git
 
-for testing it forst only git package exists, later it will go into a default package for installs from ISO:
+for testing it first only git package exists, later it will go into a default package for installs from ISO:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasma (not ready)
 
 
@@ -35,7 +35,7 @@ https://github.com/endeavouros-team/PKGBUILDS/tree/master/endeavouros-skel-plasm
 
 ---
 
-first test was using this here but as it partly bypass  dynamic generation of files under plasma we can not really use it:
+first test was using this here but as it partly bypass dynamic generation of files under plasma we can not really use it:
 
 copy `/usr/share/plasma/plasmoids/org.kde.plasma.taskmanager` to
 `/etc/skel/.local/share/plasma/plasmoids/org.kde.plasma.taskmanager`
