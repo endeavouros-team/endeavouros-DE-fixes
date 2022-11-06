@@ -1,2 +1,0 @@
-[Containments][2][Applets][5][Configuration][General]
-launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop?wmClass=konsole,preferred://filemanager?wmClass=dolphin,preferred://browser?wmClass=firefox

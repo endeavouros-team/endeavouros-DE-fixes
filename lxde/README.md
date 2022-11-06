@@ -8,4 +8,7 @@ From `$HOME/.local/share/dbus-1/services/org.freedesktop.Notifications.service`
 
 The current best Solution is to put complete panel config file into skel.. 
 
+PKGBUILD:
+https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-lxde
+
 ![eos-lxde](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/lxde/lxde.png)
