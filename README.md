@@ -1,7 +1,7 @@
 # EndeavourOS-DE-fixes
 Information about current used fixes for DE vanilla installs.
 
-You will find SOurces and PKGBUILD file info in readme of the DE (Subfolder9
+You will find Sources and PKGBUILD file info in readme of the DE (Subfolder9)
 
 **The rule:**
 
@@ -11,7 +11,7 @@ We don't change the whole theme or customize it to create a different look and f
 
 ## [**K**EEP **I**T **S**IMPLE, **S**TUPID!](https://en.wikipedia.org/wiki/KISS_principle)
 
-In the end Vanilla DEs on schould look nice and give lean default options with everything working as it should.
+In the end Vanilla DEs should look nice and give lean default options with everything working as it should.
 The idea is to not need to fix them one day in the future.
 
 ![eos-budgie](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/budgie/budgie.png)
