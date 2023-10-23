@@ -1,4 +1,4 @@
-Cinnamon needs settings for non-adwaita icon theme to show all icons properly.
+Cinnamon needs settings for non-adwaita icon themes to show all icons properly.
 
 PKGBUILD:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-cinnamon
