@@ -1,7 +1,6 @@
-lxqt: can use autostart desktop files.. 
+LXQT can use autostart desktop files.
 
-PKGBUILD:
+PKGBUILD / Source:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-lxqt
-
 
 ![eos-lxqt](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/lxqt/lxqt.png)
