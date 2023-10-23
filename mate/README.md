@@ -12,7 +12,7 @@ and copy a minimal gschema.override at its place:
 `/usr/share/glib-2.0/schemas/99_endeavouros-mate.gschema.override`,
 to make this layout default for the panel.
 
-PKGBUILD / Source:
+PKGBUILD / Source Repository:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-mate
 
 
