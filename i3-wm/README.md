@@ -2,8 +2,10 @@
 
 The beloved EndeavourOS i3-wm setup.
 Not only fixes but an easy to use start into tiling Window Managers, almost usable like a real Desktop.
-the config files are well commented to hint about the used options.
-You can finde more detailed info on the source repository.
+
+The config files are well commented to hint about the used options.
+
+You can find more detailed info on the source repository.
 
 PKGBUILD:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-i3-wm
