@@ -1,7 +1,7 @@
 ## EndeavourOS i3-WM theme and setup
 
 The beloved EndeavourOS i3-wm setup.
-Not only fixes but an easy to use start into tiling Window Managers, almost usable like a real Desktop.
+Not only fixes but an easy to use start into tiling Window Managers, usable like a real Desktop.
 
 The config files are well commented to hint about the used options.
 
