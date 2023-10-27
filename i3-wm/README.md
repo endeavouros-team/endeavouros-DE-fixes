@@ -11,4 +11,4 @@ https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-i3-wm
 Source Repository:
 https://github.com/endeavouros-team/endeavouros-i3wm-setup
 
-![eos-xfce4](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/xfce4/xfce4.png)
+![eos-i3-wm](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/i3-wm/i3-wm-endeavouros.png)
