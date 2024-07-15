@@ -3,6 +3,9 @@ Gnome using dconf/gschema overrides we need to use
 `/usr/share/glib-2.0/schemas/20_endeavouros-gnome.gschema.override`
 and we implement a fix for dark and light mode where it would not show a wallpaper when changing between modes.
 
+Adding override to replace archlogo with EndeavourOS one on GDM screen:
+https://github.com/endeavouros-team/PKGBUILDS/blob/master/eos-settings-gnome/zz_endeavouros.org.gnome.login-screen.gschema.override
+
 PKGBUILD / Source
 https://github.com/endeavouros-team/PKGBUILDS/blob/master/eos-settings-gnome
 
