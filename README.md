@@ -23,10 +23,12 @@ The idea is to not need to fix them one day in the future.
 ![eos-lxqt](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/lxqt/lxqt.png)
 
 Xfce4 needs a lot of configs so we do not call this DE-Fix"  you will find the setup here:
+
 https://github.com/endeavouros-team/eos-settings-xfce4
 ![eos-xfce4](https://raw.githubusercontent.com/endeavouros-team/screenshots/refs/heads/master/xfce4-endeavouros-mercury.png)
 
 And finally i3-wm is widely changed to replicate the same comfort as a real Desktop:
+
 https://github.com/endeavouros-team/endeavouros-i3wm-setup
 ![eos-i3-wm](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/i3-eos-view-shot-nov21.png)
 
