@@ -28,6 +28,6 @@ https://github.com/endeavouros-team/eos-settings-xfce4
 
 And finally i3-wm is widely changed to replicate the same comfort as a real Desktop:
 https://github.com/endeavouros-team/endeavouros-i3wm-setup
-[eos-i3-wm](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/i3-eos-view-shot-nov21.png)
+![eos-i3-wm](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/i3-eos-view-shot-nov21.png)
 
 
