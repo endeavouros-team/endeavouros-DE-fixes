@@ -14,10 +14,20 @@ We don't change the whole theme or customize it to create a different look and f
 In the end Vanilla DEs should look nice and give lean default options with everything working as it should.
 The idea is to not need to fix them one day in the future.
 
+![eos-plasma](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/plasma/plasma.png)
+![eos-gnome](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/gnome/gnome.png)
 ![eos-budgie](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/budgie/budgie.png)
 ![eos-cinnamon](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/cinnamon/cinnamon.png)
-![eos-gnome](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/gnome/gnome.png)
+![eos-mate](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/mate/mate.png)
 ![eos-lxde](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/lxde/lxde.png)
 ![eos-lxqt](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/lxqt/lxqt.png)
-![eos-mate](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/mate/mate.png)
-![eos-plasma](https://raw.githubusercontent.com/endeavouros-team/endeavouros-DE-fixes/main/plasma/plasma.png)
+
+Xfce4 needs a lot of configs so we do not call this DE-Fix"  you will find the setup here:
+https://github.com/endeavouros-team/eos-settings-xfce4
+![eos-xfce4](https://raw.githubusercontent.com/endeavouros-team/screenshots/refs/heads/master/xfce4-endeavouros-mercury.png)
+
+And finally i3-wm is widely changed to replicate the same comfort as a real Desktop:
+https://github.com/endeavouros-team/endeavouros-i3wm-setup
+[eos-i3-wm](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/i3-eos-view-shot-nov21.png)
+
+
