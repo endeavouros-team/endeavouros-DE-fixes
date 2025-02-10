@@ -6,6 +6,6 @@ PKGBUILD:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-xfce4
 
 Source Repo:
-[https://github.com/endeavouros-team/endeavouros-xfce4-theming](https://github.com/endeavouros-team/eos-settings-xfce4)
+[https://github.com/endeavouros-team/eos-settings-xfce4](https://github.com/endeavouros-team/eos-settings-xfce4)
 
 ![eos-xfce4](https://raw.githubusercontent.com/endeavouros-team/screenshots/refs/heads/master/xfce4-endeavouros-mercury.png)
