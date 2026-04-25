@@ -1,7 +1,7 @@
 # EndeavourOS-DE-fixes
 Information about current used fixes for DE vanilla installs.
 
-You will find Sources and PKGBUILD file info in readme of the DE (Subfolder9)
+You will find Sources and PKGBUILD file info in readme of the Desktops
 
 **The rule:**
 
