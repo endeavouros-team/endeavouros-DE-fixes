@@ -1,5 +1,7 @@
 lxqt
 
+Only adding icons to the panel.
+
 PKGBUILD:
 https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-settings-lxqt
 
