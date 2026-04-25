@@ -1,6 +1,6 @@
 Mate take overrides but uses also defaults under `/usr/share/mate-*`  
 
-**Currently** we ochange terminal config to not use default theming color scheme so we can use `dconf write` command:
+**Currently** we change terminal config to not use default theming color scheme so we can use `dconf write` command:
 
 `dconf write /org/mate/terminal/profiles/default/use-theme-colors false`
 
