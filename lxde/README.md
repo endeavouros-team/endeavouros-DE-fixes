@@ -1,4 +1,6 @@
-lxde fixes for adding terminal to panel and It seems there is no Desktop notifications running for LXDE so to have some using notification-daemon that needs a starter 
+lxde fixes for adding terminal to panel and there is no Desktop notifications running for LXDE. 
+
+To have some using notification-daemon that needs a starter 
 
 `/etc/xdg/autostart`.. to start the notification server as a D-Bus service, the notification server can be launched automatically on the first call to it..
 
