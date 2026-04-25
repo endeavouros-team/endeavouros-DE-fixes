@@ -1,4 +1,4 @@
-As Budgie using dconf/gschema overrides we need to use 
+Budgie is using dconf/gschema overrides:
 
 `/usr/share/glib-2.0/schemas/99_endeavouros-budgie.gschema.override`  
 
